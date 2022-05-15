@@ -1,0 +1,31 @@
+.input-group, .col-xs-2{
+    text-align: center;
+}
+footer{
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background-color: #DBC5F6;
+    font-size: 20px;
+}
+
+nav .navbar-nav li a, .navbar-brand, .nav-link{
+    color: black;
+}
+
+.table{
+    margin: auto;
+    line-height: 50px;
+    height: 50px; 
+}
+
+.button{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;  
+}
